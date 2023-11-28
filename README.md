@@ -1,3 +1,5 @@
+Published at: https://harperdunn.github.io/vegan-recipe-app/
+
 This is a web application that shows Vegan recipes specifically for college students who are on a budget. It is aimed to introduce people to vegan cooking in an easy and tasty way.
 
 Features: 
