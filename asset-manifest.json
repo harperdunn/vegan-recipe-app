@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vegan-recipe-app/static/css/main.95605681.css",
-    "main.js": "/vegan-recipe-app/static/js/main.24c67836.js",
+    "main.js": "/vegan-recipe-app/static/js/main.cec3e93f.js",
     "index.html": "/vegan-recipe-app/index.html",
     "main.95605681.css.map": "/vegan-recipe-app/static/css/main.95605681.css.map",
-    "main.24c67836.js.map": "/vegan-recipe-app/static/js/main.24c67836.js.map"
+    "main.cec3e93f.js.map": "/vegan-recipe-app/static/js/main.cec3e93f.js.map"
   },
   "entrypoints": [
     "static/css/main.95605681.css",
-    "static/js/main.24c67836.js"
+    "static/js/main.cec3e93f.js"
   ]
 }
