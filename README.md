@@ -1,11 +1,42 @@
-Published at: https://harperdunn.github.io/vegan-recipe-app/
+# Vegan Recipe App
 
-This is a web application that shows Vegan recipes specifically for college students who are on a budget. It is aimed to introduce people to vegan cooking in an easy and tasty way.
+A web app for discovering vegan recipes, built for college students on a budget. Pulls live data from the Spoonacular API to display recipes with ingredients and step-by-step instructions.
 
-Features: 
-Home Page with sliding gallery of Popular and Healthy recipes to choose from.
-Search bar to search for any vegan recipe by keyword.
-Cuisine buttons bring the user to pages with cuisine-specific recipes. 
-When each recipe is clicked, ingredients and instructions are displayed.
+**Live site:** https://harperdunn.github.io/vegan-recipe-app/
 
-API: Spoonacular API
+---
+
+## Features
+
+- Home page with sliding galleries of popular and healthy recipes
+- Search bar to find any vegan recipe by keyword
+- Cuisine pages for browsing by cuisine type
+- Recipe detail view with full ingredient list and instructions
+
+---
+
+## Tech Stack
+
+- **React** — component-based UI
+- **React Router** — client-side routing
+- **Styled Components** — CSS-in-JS styling
+- **Spoonacular API** — recipe data
+- **GitHub Pages** — deployment
+
+---
+
+## Setup
+
+1. Clone the repo
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Create a `.env` file in the root with your Spoonacular API key:
+   ```
+   REACT_APP_APIKEY=your_api_key_here
+   ```
+4. Start the dev server:
+   ```bash
+   npm start
+   ```
