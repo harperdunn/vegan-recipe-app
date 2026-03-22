@@ -1,6 +1,6 @@
 # Vegan Recipe App
 
-A web app for discovering vegan recipes, built for college students on a budget. Pulls live data from the Spoonacular API to display recipes with ingredients and step-by-step instructions.
+This is a web application that shows vegan recipes specifically for college students who are on a budget. It is aimed to introduce people to vegan cooking in an easy and tasty way.
 
 **Live site:** https://harperdunn.github.io/vegan-recipe-app/
 
